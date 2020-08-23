@@ -42,3 +42,5 @@ wrt32x .config  新增
 
 ## 2020年6月5日
 更换smallhuhu lede
+
+8.23
